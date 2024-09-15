@@ -37,8 +37,8 @@ The Terraform configuration sets up:
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/Ayobami-00/terraform-bootstrap.git
+    cd terraform-bootstrap
     ```
 
 2. **Update Variables**:
